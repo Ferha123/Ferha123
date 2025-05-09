@@ -1,13 +1,13 @@
 ## Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Ferhan Hussein</h1>
-<h3 align="center">A passionate frontend developer form Ethiopia</h3>
+<h3 align="center">A passionate frontend developer and data science learner form Ethiopia</h3>
 
 - 🌱 I’m currently learning **computer Science**
 
 - 👨‍💻 All of my projects are available at [Ferha123](Ferha123)
 
-- 💬 Ask me about **c++,Html,CSS**
+- 💬 Ask me about **c++,Html,PYTHON,CSS**
 
 - 📫 How to reach me **ferhanhussien09@gmail.com**
 
