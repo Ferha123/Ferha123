@@ -7,8 +7,6 @@
 
 - 👨‍💻 All of my projects are available at [Ferha123](Ferha123)
 
-- 💬 Ask me about **c++,Html,CSS**
-
 - 📫 How to reach me **ferhanhussien09@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
